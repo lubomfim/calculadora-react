@@ -1,5 +1,7 @@
 # 🎉 Calculadora
 
+![Imagem do Projeto](./design/design.png)
+
 Projeto da calculdadora para **prática** no desenvolvimento de aplicações utilizando a biblioteca [React](https://pt-br.reactjs.org/).
 
 ## 🚀 Tecnologias utilizadas
