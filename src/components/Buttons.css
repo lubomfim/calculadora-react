@@ -1,0 +1,26 @@
+button {
+  cursor: pointer;
+  border: 1px solid white;
+  border-radius: 2px;
+  outline: none;
+
+  transition: all 0.5s ease;
+  background-color: #ea8685;
+  font-size: 25px;
+  color: white;
+  font-family: 'Titillium Web',
+    sans-serif;
+}
+
+
+button:active {
+  background-color: #f5cd79;
+}
+
+button:hover {
+  background-color: #f5cd79;
+}
+
+button:not(.number) {
+  font-weight: 700;
+}

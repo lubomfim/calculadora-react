@@ -1,0 +1,26 @@
+.main {
+  max-width: 400px;
+  min-width: 400px;
+  width: 98%;
+}
+
+.calculadora {
+  background-color: #32ff7e;
+  color: black;
+  padding: 20px;
+  border-radius: 3px;
+
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(5, 80px);
+}
+
+
+.zero {
+  grid-area: 5/ span 2;
+}
+
+.result {
+  grid-area: span 3 / 4
+}
+
