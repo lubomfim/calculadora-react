@@ -18,6 +18,8 @@ https://lubomfim-calc-react.netlify.app/
 
 - [x] Iniciando o projeto com "create-react-app";
 - [x] Definindo a estrutura e design;
+- [x] Mudando lógica e deixando mais simples;
+- [x] Finalizando primeira versão;
 
 ## Instalação
 
