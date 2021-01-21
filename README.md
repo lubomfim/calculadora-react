@@ -33,8 +33,8 @@ git clone git@github.com:lubomfim/calculadora-react.git
 
 npm install
 
-// Com a aplicação clona e suas dependências instalada,
-// você pode executar o comando e abaixo e iniciar a aplicação:
+// Com a aplicação clonada e suas dependências instaladas,
+// você pode executar o comando abaixo e iniciar a aplicação:
 
 npm start
 
