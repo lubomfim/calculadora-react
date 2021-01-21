@@ -23,7 +23,8 @@ https://lubomfim-calc-react.netlify.app/
 
 Para rodar essa aplicação, é necessário que tenha instalado o [Node e NPM](https://nodejs.org/en/), o NPM vem junto na instalação do Node.
 
-```
+```javascript
+
 // Abra o terminal e digite
 
 git clone git@github.com:lubomfim/calculadora-react.git
@@ -32,7 +33,8 @@ git clone git@github.com:lubomfim/calculadora-react.git
 
 npm install
 
-// Com a aplicação clona e suas dependências instalada, você pode executar o comando e abaixo e iniciar a aplicação:
+// Com a aplicação clona e suas dependências instalada,
+// você pode executar o comando e abaixo e iniciar a aplicação:
 
 npm start
 
